@@ -13,7 +13,7 @@ Yakpro-Po is developed by **Pascal KISSIAN** and is available under its respecti
 ##  Usage
 To use this configuration, download the `yakpro-po.cnf` file and place it in your Yakpro-Po directory:
 ```sh
-wget -O yakpro-po.cnf https://raw.githubusercontent.com/your-username/your-repo/main/yakpro-po.cnf
+wget -O yakpro-po.cnf https://raw.githubusercontent.com/OssamaN7/your-repo/main/yakpro-po.cnf
 ```
 Then, run Yakpro-Po with:
 ```sh
